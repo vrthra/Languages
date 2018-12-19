@@ -4,8 +4,11 @@ Hiwi Task WS18/19: Parser Implementations of Programming Languages
 Obtained a list of >100 languages from the following links:
 
 https://www.benfrederickson.com/ranking-programming-languages-by-github-users/
+
 https://www.tiobe.com/tiobe-index/
+
 https://madnight.github.io/githut/#/pull_requests/2018/3
+
 https://www.gharchive.org/
 
 Current status (Dec 19th 2018, 11:37 a.m.):
