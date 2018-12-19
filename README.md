@@ -1,22 +1,16 @@
 # Languages
-Hiwi Task August: Parser Implementations of Programming Languages
+Hiwi Task WS18/19: Parser Implementations of Programming Languages
 
-Current status (which languages I'm looking at):
+Obtained a list of >100 languages from the following links:
 
-03.08.18
+https://www.benfrederickson.com/ranking-programming-languages-by-github-users/
+https://www.tiobe.com/tiobe-index/
+https://madnight.github.io/githut/#/pull_requests/2018/3
+https://www.gharchive.org/
 
-TIOBE ranking for August 2018 (https://www.tiobe.com/tiobe-index/):
+Current status (Dec 19th 2018, 11:37 a.m.):
 
-(I'll start with the Top 10):
-
-Java
-C
-C++
-Python
-Visual Basic.NET
-C#
-PHP
-JavaScript
-SQL
-Assembly Language
-
+*Looked though all possible github repos for parser implementations for ~90 languages
+*Will continue today in the evening.
+*Left blank the ones where I couldn't find anything relevant/which are not open source
+*not confident in identifying whether style is top-down/bottom-up (how to recognize it easily and as quickly as possible??)
